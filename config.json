@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicecync",
+        "uuid": 37585436,
+        "checksum": "bk4icp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
